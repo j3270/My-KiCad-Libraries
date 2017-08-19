@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC165A
+D Shift Register 8 bits, parallel load
+K TTL SR SR8
+$ENDCMP
+#
+$CMP 74LVTH2244
+D 8 bits Bus Buffer 3 State out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+#End Doc Library
